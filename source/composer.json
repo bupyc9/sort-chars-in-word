@@ -1,0 +1,21 @@
+{
+    "name": "bupyc9/sort-chars-in-word",
+    "description": "",
+    "license": "proprietary",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Pavel Afanasev",
+            "email": "bupyc9@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "files": [
+            "src/functions.php"
+        ]
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^7.4"
+    }
+}
